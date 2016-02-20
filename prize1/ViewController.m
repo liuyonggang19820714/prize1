@@ -32,6 +32,7 @@
     
     return _personArray;
 }
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
